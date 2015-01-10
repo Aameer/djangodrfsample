@@ -18,8 +18,11 @@ To test if you have configured everything correctly, run the server `python mana
 
 * *http://localhost:8000/*, You should result like
 
-![Sample output Image deals](https://raw.githubusercontent.com/Aameer/amazon_deals_api/master/amazonparser/static/img/01.png)
+![Sample output Image deals](https://raw.githubusercontent.com/Aameer/djangodrfsample/master/quickstart/static/img/main.png)
+![Sample output Image deals](https://raw.githubusercontent.com/Aameer/djangodrfsample/master/quickstart/static/img/user1.png)
+![Sample output Image deals](https://raw.githubusercontent.com/Aameer/djangodrfsample/master/quickstart/static/img/user2.png)
+![Sample output Image deals](https://raw.githubusercontent.com/Aameer/djangodrfsample/master/quickstart/static/img/json.png)
+![Sample output Image deals](https://raw.githubusercontent.com/Aameer/djangodrfsample/master/quickstart/static/img/group.png)
 
-![Sample output Image lightening deals](https://raw.githubusercontent.com/Aameer/amazon_deals_api/master/amazonparser/static/img/02.png)
 
 Add a superuser for your database and after authentication you can add new users by POST, You can also GET the present users.You will see users information like `username`,`first_name`,`last_name`, `email`,`groups`. Similar information is shown for Groups. 
